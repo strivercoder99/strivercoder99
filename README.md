@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strivercoder99" alt="strivercoder99" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures ,OOPs, Discrete Mathematics.**
+- 🌱 I’m currently learning **DBMS , OS , DSA , JAVA**
 
 - 💬 Ask me about **C, C++ , Web development.**
 
